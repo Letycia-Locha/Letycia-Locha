@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Letycia-Locha
 - 👀 I seek to learn more about the world of technology
-- 🌱 I’m currently learning front-end dev
+- 🌱 I’m currently learning front-end and back-end dev
 - 💞️ I’m looking to collaborate on something creative
 - 😄 Pronouns: Bê, Let, Tici.
 - ⚡ Fun fact: 
