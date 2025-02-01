@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="165" src="https://i.pinimg.com/originals/73/0d/75/730d75ed729397068c7a89fa7476e305.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
@@ -35,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="letycia.locha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -51,6 +47,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Letycia-Locha/Letycia-Locha/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Letycia-Locha&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
