@@ -6,7 +6,7 @@
 
 <h3 align="left"> Desenvolvedora em Formação </h3>
 
-Olá, sou a Letycia, sou de Minas e tenho 29 anos. A pouco mais de um ano iniciei minha transição de carreira! Atualmente curso Análise e Desenvolvimento de Sistemas e foco meus estudos em desenvolvimento Backend. Mesmo assim, entendo a amplitude da tecnologia, por isso, nesse repertório você verá de tudo! Aqui é meu local de estudos, testes técnicos, experimentos e muito, mas muito treino! 
+Olá, sou a Letycia, sou de Minas e tenho 29 anos. A pouco mais de um ano iniciei minha transição de carreira! Atualmente curso Análise e Desenvolvimento de Sistemas e foco meus estudos em desenvolvimento Análise de Dados e Inteligência Artificial. Mesmo assim, entendo a amplitude da tecnologia, por isso, nesse repertório você verá de tudo! Aqui é meu local de estudos, testes técnicos, experimentos e muito, mas muito treino! 
 
 Eu adoro estudar, e a tecnolgia me proporciona esse desafio constantemente, isso me deixa muito animada! Sinta-se à vontade para explorar, contribuir e compartilhar comigo! Estou sempre aberta a OPORTUNIDADES na tecnologia! 
 
