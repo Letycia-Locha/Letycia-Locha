@@ -20,30 +20,26 @@ Eu adoro estudar, e a tecnolgia me proporciona esse desafio constantemente, isso
 
 ###
 
-<img align="right" height="150" src="https://i.makeagif.com/media/9-29-2023/yE78Ik.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/58/39/13/5839131c01c58c394aa4a3c6d3a5a462.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
 ###
@@ -68,4 +64,4 @@ Eu adoro estudar, e a tecnolgia me proporciona esse desafio constantemente, isso
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Letycia-Locha/Letycia-Locha/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
