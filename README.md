@@ -60,7 +60,6 @@ Eu adoro estudar, e a tecnolgia me proporciona esse desafio constantemente, isso
 ###
 
 <br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Letycia-Locha/Letycia-Locha/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Letycia-Locha/Letycia-Locha/output/pacman-contribution-graph.svg">
