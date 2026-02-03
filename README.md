@@ -4,7 +4,7 @@
 
 <h2 align="left"> Letycia Locha </h2>
 
-<h3 align="left"> Desenvolvedora em Formação </h3>
+<h3 align="left"> Engenheira de Dados em Formação </h3>
 
 Olá, sou a Letycia, sou de Minas e tenho 29 anos. A pouco mais de um ano iniciei minha transição de carreira! Atualmente curso Análise e Desenvolvimento de Sistemas e foco meus estudos em desenvolvimento <b> Engenharia de Dados </b> e <b>Inteligência Artificial</b>. Mesmo assim, entendo a amplitude da tecnologia, por isso, nesse repertório você verá de tudo! Aqui é meu local de estudos, testes técnicos, experimentos e muito, mas muito treino! 
 
