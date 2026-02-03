@@ -6,7 +6,7 @@
 
 <h3 align="left"> Desenvolvedora em Formação </h3>
 
-Olá, sou a Letycia, sou de Minas e tenho 29 anos. A pouco mais de um ano iniciei minha transição de carreira! Atualmente curso Análise e Desenvolvimento de Sistemas e foco meus estudos em desenvolvimento <b> Ciência de Dados </b> e <b>Inteligência Artificial</b>. Mesmo assim, entendo a amplitude da tecnologia, por isso, nesse repertório você verá de tudo! Aqui é meu local de estudos, testes técnicos, experimentos e muito, mas muito treino! 
+Olá, sou a Letycia, sou de Minas e tenho 29 anos. A pouco mais de um ano iniciei minha transição de carreira! Atualmente curso Análise e Desenvolvimento de Sistemas e foco meus estudos em desenvolvimento <b> Engenharia de Dados </b> e <b>Inteligência Artificial</b>. Mesmo assim, entendo a amplitude da tecnologia, por isso, nesse repertório você verá de tudo! Aqui é meu local de estudos, testes técnicos, experimentos e muito, mas muito treino! 
 
 Eu adoro estudar, e a tecnolgia me proporciona esse desafio constantemente, isso me deixa muito animada! Sinta-se à vontade para explorar, contribuir e compartilhar comigo! Estou sempre aberta a OPORTUNIDADES na tecnologia! 
 
@@ -14,7 +14,6 @@ Eu adoro estudar, e a tecnolgia me proporciona esse desafio constantemente, isso
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Letycia-Locha&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Letycia-Locha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
