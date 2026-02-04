@@ -6,8 +6,9 @@
 
 <h3 align="left"> Engenheira de Dados em Formação </h3>
 
-Olá, sou a Letycia, sou de Minas e tenho 29 anos. A pouco mais de um ano iniciei minha transição de carreira! Atualmente curso Análise e Desenvolvimento de Sistemas e foco meus estudos em desenvolvimento <b> Engenharia de Dados </b> e <b>Inteligência Artificial</b>. Mesmo assim, entendo a amplitude da tecnologia, por isso, nesse repertório você verá de tudo! Aqui é meu local de estudos, testes técnicos, experimentos e muito, mas muito treino! 
-
+Olá, sou a Letycia, sou de Minas e tenho 29 anos. A pouco mais de um ano iniciei minha transição de carreira! Atualmente atuo como Estagiária Cross no ITAÚ, fazendo o elo entre Dados e Qualidade de Software. Curso Análise e Desenvolvimento de Sistemas e foco meus estudos é <b> Engenharia de Dados </b> e <b>Inteligência Artificial</b>. <br>
+Mesmo com foco claro, entendo a amplitude da tecnologia, por isso, nesse repertório você verá de tudo! Aqui é meu local de estudos, testes técnicos, experimentos e muito, mas muito treino! 
+<br>
 Eu adoro estudar, e a tecnolgia me proporciona esse desafio constantemente, isso me deixa muito animada! Sinta-se à vontade para explorar, contribuir e compartilhar comigo! Estou sempre aberta a OPORTUNIDADES na tecnologia! 
 
 
